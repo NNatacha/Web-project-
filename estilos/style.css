@@ -7,11 +7,36 @@ body{
     background-color: rgb(45, 3, 83);
 }
 
-main{
+main {
     background-color: white;
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
 
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(57, 27, 85);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(57, 27, 85);
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(57, 27, 85);
+}
+
+a:hover {
+    text-decoration: underline;
+    color:rgb(28, 93, 214)
 }
